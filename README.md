@@ -25,7 +25,7 @@ Utilizes the following technologies
 ## Note Taker & Repository
 
 ![REPO](https://github.com/DRockmore89/work_schedule.git)
-![Clickhere]( https://drockmore89.github.io/work_schedule/)
+![Clickhere](https://drockmore89.github.io/work_schedule/)
 
 ### Questions
 
